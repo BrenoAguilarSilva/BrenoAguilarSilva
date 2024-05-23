@@ -1,16 +1,22 @@
-## Hi there 👋
+## Sobre mim
+<p align="left">Ooi, tudo bem? Eu sou o Breno. Atualmente, estagiário na <a href = "https://www.z-act.io/" target="_blank"><strong>Z-Act</strong></a>. Gosto muito de desenvolver soluções e estou sempre em busca de novos conhecimentos na área de programação.</p>
 
-<!--
-**BrenoAguilarSilva/BrenoAguilarSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### 🚀 Linguagens, Tecnologias e Frameworks
+- <p align="left">
+  <strong> Java, Golang, Python, Banco de Dados, Quarkus, Django, Tailwind CSS</strong>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Ferramentas
+- <p align="left">
+  <strong>Docker, Kafka, Keycloak, Git/Github</strong>
+</p>
+
+### ☁️ Nuvens Públicas
+Atualmente estudando:
+- <p align="left">
+  <strong>Amazon AWS, Microsoft Azure</strong>
+</p>
+
+### 💬 Onde me encontrar
+<a href="mailto:brenoaguilar29@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href="https://www.linkedin.com/in/breno-aguilar-16a959264/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a><br>
