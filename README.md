@@ -4,12 +4,12 @@
 
 ### 🚀 Linguagens, Tecnologias e Frameworks
 - <p align="left">
-  <strong> Java, Golang, Python, Banco de Dados, Quarkus, Django, Tailwind CSS</strong>
+  <strong> Java, Quarkus, Golang, Python, Banco de Dados, Django</strong>
 </p>
 
-### 🛠️ Ferramentas
+### 🛠️ Ferramentas com as quais já trabalhei
 - <p align="left">
-  <strong>Docker, Kafka, Keycloak, Git/Github</strong>
+  <strong>Docker, Kafka, Keycloak, HashCorp Vault, Git/Github</strong>
 </p>
 
 ### ☁️ Nuvens Públicas
