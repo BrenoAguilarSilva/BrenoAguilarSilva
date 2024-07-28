@@ -4,7 +4,7 @@
 
 ### 🚀 Linguagens, Tecnologias e Frameworks
 - <p align="left">
-  <strong> Java, Quarkus, Golang, Python, Django Banco de Dados</strong>
+  <strong> Java, Quarkus, Golang, Python, Django, Banco de Dados</strong>
 </p>
 
 ### 🛠️ Ferramentas com as quais já trabalhei
