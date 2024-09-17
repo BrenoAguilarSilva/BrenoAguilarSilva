@@ -1,5 +1,5 @@
 ## Sobre mim
-<p align="left">Ooi, tudo bem? Eu sou o Breno. Atualmente, estagiário na <a href = "https://www.z-act.io/" target="_blank"><strong>Z-Act</strong></a>. Gosto muito de desenvolver soluções e estou sempre em busca de novos conhecimentos na área de programação.</p>
+<p align="left">Ooi, tudo bem? Eu sou o Breno. Atualmente, trabalhando na <a href = "https://www.z-act.io/" target="_blank"><strong>Z-Act</strong></a>. Gosto muito de desenvolver soluções e estou sempre em busca de novos conhecimentos na área de programação.</p>
 
 
 ### 🚀 Linguagens, Tecnologias e Frameworks
